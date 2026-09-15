@@ -5,7 +5,7 @@ U might see me in some years in theaters. Not as an actor or director. But u´ll
 
 Yeah I think I´m tough and my ego it´s up the scale but still, I need to believe.
 
-#Preloge
+# Preloge
 
 This man is one of my favourite yutubers, for the simple reason he speaks his mind while presenting a detailed researche about the topics. And I love to enhance my general knollege
 
