@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Tailwind</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+
+
+    <!-- Responsive padding and text size -->
+    <div class="p-4 lg:p-12">
+        <h1 class="text-2xl lg:text-5xl">
+            Title that grows in desktop
+        </h1>
+    </div>
+
+
+
+    <!-- Responsive visibility -->
+    <div class="hidden lg:hidden">Menu Mobile</div>
+    <div class="hidden lg:block">Menu Desktop</div>
+        
+        
+
+    <!--responsive grid layout-->
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div class="p-6 bg-gray-300">Card 1</div>
+        <div class="p-6 bg-blue-600">Card 2</div>
+        <div class="p-6 bg-red-500">Card 3</div>
+        <div class="p-6 bg-green-400">Card 4</div>
+        <div class="p-6 bg-yellow-300">Card 5</div>
+        <div class="p-6 bg-purple-500">Card 6</div>
+
+
+
+        
+    </div>
+</body>
+
+</html>
